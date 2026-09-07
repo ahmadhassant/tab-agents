@@ -1,0 +1,40 @@
+{
+  "title": "ṭāb: engine, agents and replication package",
+  "description": "<p>Rules engine, heuristic and learned agents, tournament harness and complete raw results for the IEEE Transactions on Games paper <em>Tactical Lookahead and Heuristic Calibration in the Ancient Board Game of ṭāb: A Systematic Study of Agent Design</em> (Hassanat and Altarawneh).</p><p>Includes: the rules engine with the formalized freeing, invasion, freeze, one-strike re-entry and LIFO stacking rules; all agents (GA baselines, the TLA lookahead family, the PSA phase-sampling baseline, MCTS at four budgets and two tree depths, and a TD(&lambda;) value network); the tournament harness with the exact commands and seed bases behind every table and figure; raw per-game records for roughly 400,000 games; the 342-decision human alignment dataset with the 11 underlying expert game logs; and a browser-playable build of the engine with the trained network embedded.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Hassanat, Ahmad B.",
+      "affiliation": "Faculty of Information Technology, Mutah University, Al-Karak, Jordan"
+    },
+    {
+      "name": "Altarawneh, Ghada A.",
+      "affiliation": "Department of Accounting, Mutah University, Karak, Jordan"
+    },
+    {
+      "name": "Tarawneh, Ahmad S.",
+      "affiliation": "Faculty of Information Technology, Mutah University, Al-Karak, Jordan"
+    }
+  ],
+  "keywords": [
+    "board games",
+    "game AI",
+    "evaluation functions",
+    "heuristic agent design",
+    "lookahead search",
+    "Monte Carlo tree search",
+    "temporal-difference learning",
+    "human-AI alignment",
+    "tab",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ahmadhassant/tab-agents",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

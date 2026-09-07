@@ -1,0 +1,23 @@
+==========================================================================================
+  tab TOURNAMENT SUMMARY
+==========================================================================================
+  Generated: 2026-09-03T20:25:42.629114
+
+  Agent A              Agent B               Games A wins B wins Draws   A win %    95% CI  Turns  Time/g
+  -------------------- -------------------- ------ ------ ------ ----- --------- --------- ------ -------
+  GA-Expert            GA-Original             600    243    355     2     40.5%    +/-3.9  143.2   7.84s
+  GA-Expert            LOOK                    600    216    380     4     36.0%    +/-3.8  157.6   7.12s
+  GA-Expert            LOOK-A3-simple-stack    600    212    387     1     35.3%    +/-3.8  150.1   8.62s
+  GA-Expert            LOOK-my-eval            600    448    151     1     74.7%    +/-3.5  130.4   4.75s
+  GA-Expert            LOOK-no-LA              600    263    334     3     43.8%    +/-4.0  146.3   4.28s
+  GA-Original          LOOK                    600    208    384     8     34.7%    +/-3.8  167.0   7.07s
+  GA-Original          LOOK-A3-simple-stack    600    207    387     6     34.5%    +/-3.8  158.2  11.22s
+  GA-Original          LOOK-my-eval            600    455    141     4     75.8%    +/-3.4  133.4   4.49s
+  GA-Original          LOOK-no-LA              600    335    264     1     55.8%    +/-4.0  160.1   4.14s
+  LOOK                 LOOK-A3-simple-stack    600    280    311     9     46.7%    +/-4.0  180.2  11.26s
+  LOOK                 LOOK-my-eval            600    472    121     7     78.7%    +/-3.3  138.5   2.33s
+  LOOK                 LOOK-no-LA              600    404    189     7     67.3%    +/-3.8  174.7   3.07s
+  LOOK-A3-simple-stack LOOK-my-eval            600    499     99     2     83.2%    +/-3.0  127.0   4.14s
+  LOOK-A3-simple-stack LOOK-no-LA              600    381    210     9     63.5%    +/-3.9  166.3   3.71s
+  LOOK-my-eval         LOOK-no-LA              600    174    422     4     29.0%    +/-3.6  140.1   1.20s
+

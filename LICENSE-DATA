@@ -1,0 +1,14 @@
+The contents of results/, human_logs/ and any figures in this repository are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit. Please cite:
+
+  A. B. Hassanat, G. A. Altarawneh, O. Alhabashneh and A. S. Tarawneh,
+  "Tactical Lookahead and Heuristic
+  Calibration in the Ancient Board Game of tab: A Systematic Study of Agent
+  Design," IEEE Transactions on Games.
+
+The source code in code/ and web/ is licensed separately under the MIT
+licence; see LICENSE.

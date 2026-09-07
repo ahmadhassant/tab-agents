@@ -1,0 +1,36 @@
+==========================================================================================
+  tab TOURNAMENT SUMMARY
+==========================================================================================
+  Generated: 2026-05-17T22:50:37.268438
+
+  Agent A              Agent B               Games A wins B wins Draws   A win %    95% CI  Turns  Time/g
+  -------------------- -------------------- ------ ------ ------ ----- --------- --------- ------ -------
+  GA-Expert            GA-Fuzzy               1000    520    480     0     52.0%    +/-3.1   81.0   8.00s
+  GA-Expert            GA-Original            1000    460    540     0     46.0%    +/-3.1   80.2   6.29s
+  GA-Expert            PSA                   1000    550    450     0     55.0%    +/-3.1   82.0   3.50s
+  GA-Expert            LOOK                   1000    478    522     0     47.8%    +/-3.1   86.6   4.01s
+  GA-Expert            LOOK-A3-simple-stack   1000    477    523     0     47.7%    +/-3.1   84.5   3.92s
+  GA-Expert            LOOK-no-LA             1000    483    517     0     48.3%    +/-3.1   83.0   3.36s
+  GA-Expert            LOOK-no-enum           1000    458    542     0     45.8%    +/-3.1   85.9   4.96s
+  GA-Fuzzy             GA-Original            1000    468    532     0     46.8%    +/-3.1   83.5   7.90s
+  GA-Fuzzy             PSA                   1000    496    504     0     49.6%    +/-3.1   84.8   4.96s
+  GA-Fuzzy             LOOK                   1000    404    596     0     40.4%    +/-3.0   88.4   5.53s
+  GA-Fuzzy             LOOK-A3-simple-stack   1000    388    612     0     38.8%    +/-3.0   85.9   5.51s
+  GA-Fuzzy             LOOK-no-LA             1000    471    529     0     47.1%    +/-3.1   86.9   5.11s
+  GA-Fuzzy             LOOK-no-enum           1000    437    563     0     43.7%    +/-3.1   87.1   6.58s
+  GA-Original          PSA                   1000    549    451     0     54.9%    +/-3.1   85.9   3.33s
+  GA-Original          LOOK                   1000    440    560     0     44.0%    +/-3.1   92.2   3.92s
+  GA-Original          LOOK-A3-simple-stack   1000    474    526     0     47.4%    +/-3.1   87.2   3.93s
+  GA-Original          LOOK-no-LA             1000    519    481     0     51.9%    +/-3.1   89.0   3.33s
+  GA-Original          LOOK-no-enum           1000    452    548     0     45.2%    +/-3.1   89.8   5.08s
+  PSA                 LOOK                   1000    414    586     0     41.4%    +/-3.1   91.5   0.74s
+  PSA                 LOOK-A3-simple-stack   1000    407    593     0     40.7%    +/-3.0   88.0   0.82s
+  PSA                 LOOK-no-LA             1000    483    517     0     48.3%    +/-3.1   88.0   0.15s
+  PSA                 LOOK-no-enum           1000    406    594     0     40.6%    +/-3.0   92.6   1.78s
+  LOOK                 LOOK-A3-simple-stack   1000    451    549     0     45.1%    +/-3.1   95.0   1.32s
+  LOOK                 LOOK-no-LA             1000    600    399     1     60.0%    +/-3.0   94.7   0.62s
+  LOOK                 LOOK-no-enum           1000    493    507     0     49.3%    +/-3.1   99.1   2.52s
+  LOOK-A3-simple-stack LOOK-no-LA             1000    623    377     0     62.3%    +/-3.0   91.5   0.76s
+  LOOK-A3-simple-stack LOOK-no-enum           1000    530    469     1     53.0%    +/-3.1   94.7   2.54s
+  LOOK-no-LA           LOOK-no-enum           1000    415    585     0     41.5%    +/-3.1   92.4   1.71s
+

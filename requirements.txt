@@ -1,0 +1,6 @@
+# Core tournament and analysis: numpy only.
+numpy>=1.24
+
+# Needed only to retrain or load the TD(lambda) network (tab_td.py, TLA-NN, TD-Greedy).
+# The tournament runs without it if those agents are not in the roster.
+torch>=2.0

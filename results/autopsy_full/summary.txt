@@ -1,0 +1,74 @@
+==========================================================================================
+  tab TOURNAMENT SUMMARY
+==========================================================================================
+  Generated: 2026-09-03T11:41:21.987626
+
+  Agent A              Agent B               Games A wins B wins Draws   A win %    95% CI  Turns  Time/g
+  -------------------- -------------------- ------ ------ ------ ----- --------- --------- ------ -------
+  GA-Expert            LOOK                   2000    934   1066     0     46.7%    +/-2.2   85.7   2.98s
+  GA-Expert            LOOK-A1-material5      2000   1559    441     0     78.0%    +/-1.8   82.0   2.84s
+  GA-Expert            LOOK-A2-no-frozendist   2000   1332    668     0     66.6%    +/-2.1   79.1   3.13s
+  GA-Expert            LOOK-A3-simple-stack   2000    918   1082     0     45.9%    +/-2.2   82.3   3.44s
+  GA-Expert            LOOK-A4-strong-danger   2000   1334    666     0     66.7%    +/-2.1   80.2   2.83s
+  GA-Expert            LOOK-A5-stacking-off   2000   1362    638     0     68.1%    +/-2.0   79.8   3.33s
+  GA-Expert            LOOK-A6-all-fixed      2000   1298    702     0     64.9%    +/-2.1   94.7   3.98s
+  GA-Expert            LOOK-A7-no-hiding      2000   1334    666     0     66.7%    +/-2.1   77.9   2.51s
+  GA-Expert            LOOK-A8-no-central     2000   1229    771     0     61.5%    +/-2.1   81.3   3.34s
+  GA-Expert            LOOK-A9-no-entry       2000   1284    716     0     64.2%    +/-2.1   79.3   3.09s
+  GA-Expert            LOOK-my-eval           2000   1291    709     0     64.5%    +/-2.1   79.9   2.81s
+  LOOK                 LOOK-A1-material5      2000   1620    380     0     81.0%    +/-1.7   87.0   0.46s
+  LOOK                 LOOK-A2-no-frozendist   2000   1349    651     0     67.5%    +/-2.1   86.9   0.81s
+  LOOK                 LOOK-A3-simple-stack   2000    914   1086     0     45.7%    +/-2.2   93.1   1.07s
+  LOOK                 LOOK-A4-strong-danger   2000   1297    703     0     64.8%    +/-2.1   88.2   0.53s
+  LOOK                 LOOK-A5-stacking-off   2000   1317    683     0     65.8%    +/-2.1   87.7   0.44s
+  LOOK                 LOOK-A6-all-fixed      2000   1362    637     1     68.1%    +/-2.0  107.1   1.43s
+  LOOK                 LOOK-A7-no-hiding      2000   1325    675     0     66.2%    +/-2.1   84.1   0.45s
+  LOOK                 LOOK-A8-no-central     2000   1287    713     0     64.3%    +/-2.1   89.7   0.71s
+  LOOK                 LOOK-A9-no-entry       2000   1320    680     0     66.0%    +/-2.1   87.1   0.52s
+  LOOK                 LOOK-my-eval           2000   1352    648     0     67.6%    +/-2.1   86.8   0.56s
+  LOOK-A1-material5    LOOK-A2-no-frozendist   2000    758   1242     0     37.9%    +/-2.1   87.9   0.42s
+  LOOK-A1-material5    LOOK-A3-simple-stack   2000    371   1629     0     18.6%    +/-1.7   82.4   0.80s
+  LOOK-A1-material5    LOOK-A4-strong-danger   2000    731   1269     0     36.5%    +/-2.1   87.1   0.23s
+  LOOK-A1-material5    LOOK-A5-stacking-off   2000    714   1286     0     35.7%    +/-2.1   86.5   0.31s
+  LOOK-A1-material5    LOOK-A6-all-fixed      2000    621   1379     0     31.1%    +/-2.0  103.5   0.89s
+  LOOK-A1-material5    LOOK-A7-no-hiding      2000    769   1231     0     38.5%    +/-2.1   85.4   0.45s
+  LOOK-A1-material5    LOOK-A8-no-central     2000    684   1316     0     34.2%    +/-2.1   88.4   0.26s
+  LOOK-A1-material5    LOOK-A9-no-entry       2000    763   1237     0     38.1%    +/-2.1   86.1   0.34s
+  LOOK-A1-material5    LOOK-my-eval           2000    779   1221     0     39.0%    +/-2.1   87.5   0.33s
+  LOOK-A2-no-frozendist LOOK-A3-simple-stack   2000    564   1436     0     28.2%    +/-2.0   83.3   0.49s
+  LOOK-A2-no-frozendist LOOK-A4-strong-danger   2000    998   1002     0     49.9%    +/-2.2   84.5   0.44s
+  LOOK-A2-no-frozendist LOOK-A5-stacking-off   2000    960   1040     0     48.0%    +/-2.2   82.8   0.45s
+  LOOK-A2-no-frozendist LOOK-A6-all-fixed      2000    821   1179     0     41.0%    +/-2.2   94.5   0.71s
+  LOOK-A2-no-frozendist LOOK-A7-no-hiding      2000   1006    994     0     50.3%    +/-2.2   81.6   0.32s
+  LOOK-A2-no-frozendist LOOK-A8-no-central     2000    969   1031     0     48.4%    +/-2.2   84.7   0.47s
+  LOOK-A2-no-frozendist LOOK-A9-no-entry       2000    982   1018     0     49.1%    +/-2.2   81.9   0.43s
+  LOOK-A2-no-frozendist LOOK-my-eval           2000    973   1027     0     48.6%    +/-2.2   83.3   0.22s
+  LOOK-A3-simple-stack LOOK-A4-strong-danger   2000   1395    605     0     69.8%    +/-2.0   83.8   0.52s
+  LOOK-A3-simple-stack LOOK-A5-stacking-off   2000   1455    545     0     72.8%    +/-2.0   83.9   0.51s
+  LOOK-A3-simple-stack LOOK-A6-all-fixed      2000   1386    614     0     69.3%    +/-2.0  102.0   0.93s
+  LOOK-A3-simple-stack LOOK-A7-no-hiding      2000   1404    596     0     70.2%    +/-2.0   80.5   0.52s
+  LOOK-A3-simple-stack LOOK-A8-no-central     2000   1369    631     0     68.5%    +/-2.0   86.0   0.83s
+  LOOK-A3-simple-stack LOOK-A9-no-entry       2000   1429    571     0     71.5%    +/-2.0   83.5   0.79s
+  LOOK-A3-simple-stack LOOK-my-eval           2000   1416    584     0     70.8%    +/-2.0   82.5   0.81s
+  LOOK-A4-strong-danger LOOK-A5-stacking-off   2000   1026    974     0     51.3%    +/-2.2   83.7   0.38s
+  LOOK-A4-strong-danger LOOK-A6-all-fixed      2000    831   1169     0     41.5%    +/-2.2   96.7   0.78s
+  LOOK-A4-strong-danger LOOK-A7-no-hiding      2000    959   1041     0     47.9%    +/-2.2   81.0   0.23s
+  LOOK-A4-strong-danger LOOK-A8-no-central     2000    926   1074     0     46.3%    +/-2.2   84.8   0.29s
+  LOOK-A4-strong-danger LOOK-A9-no-entry       2000   1018    982     0     50.9%    +/-2.2   82.5   0.28s
+  LOOK-A4-strong-danger LOOK-my-eval           2000    987   1013     0     49.4%    +/-2.2   83.5   0.45s
+  LOOK-A5-stacking-off LOOK-A6-all-fixed      2000    842   1158     0     42.1%    +/-2.2   95.1   0.81s
+  LOOK-A5-stacking-off LOOK-A7-no-hiding      2000    998   1002     0     49.9%    +/-2.2   82.2   0.42s
+  LOOK-A5-stacking-off LOOK-A8-no-central     2000    926   1074     0     46.3%    +/-2.2   83.6   0.30s
+  LOOK-A5-stacking-off LOOK-A9-no-entry       2000    990   1010     0     49.5%    +/-2.2   82.0   0.28s
+  LOOK-A5-stacking-off LOOK-my-eval           2000   1013    987     0     50.6%    +/-2.2   82.8   0.41s
+  LOOK-A6-all-fixed    LOOK-A7-no-hiding      2000   1122    878     0     56.1%    +/-2.2   93.4   0.53s
+  LOOK-A6-all-fixed    LOOK-A8-no-central     2000   1064    936     0     53.2%    +/-2.2   98.9   0.59s
+  LOOK-A6-all-fixed    LOOK-A9-no-entry       2000   1137    863     0     56.9%    +/-2.2   95.0   0.58s
+  LOOK-A6-all-fixed    LOOK-my-eval           2000   1163    836     1     58.1%    +/-2.2   94.5   0.53s
+  LOOK-A7-no-hiding    LOOK-A8-no-central     2000   1002    998     0     50.1%    +/-2.2   83.1   0.33s
+  LOOK-A7-no-hiding    LOOK-A9-no-entry       2000   1018    982     0     50.9%    +/-2.2   80.0   0.47s
+  LOOK-A7-no-hiding    LOOK-my-eval           2000   1031    969     0     51.5%    +/-2.2   81.0   0.30s
+  LOOK-A8-no-central   LOOK-A9-no-entry       2000   1065    935     0     53.2%    +/-2.2   84.1   0.35s
+  LOOK-A8-no-central   LOOK-my-eval           2000   1060    940     0     53.0%    +/-2.2   84.7   0.29s
+  LOOK-A9-no-entry     LOOK-my-eval           2000   1008    992     0     50.4%    +/-2.2   81.9   0.25s
+

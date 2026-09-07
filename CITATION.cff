@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "ṭāb: engine, agents and replication package"
+message: "If you use this software or data, please cite both the software and the paper."
+type: software
+authors:
+  - family-names: Hassanat
+    given-names: Ahmad B.
+    affiliation: "Faculty of Information Technology, Mutah University, Al-Karak, Jordan"
+    email: hasanat@mutah.edu.jo
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Altarawneh
+    given-names: Ghada A.
+    affiliation: "Department of Accounting, Mutah University, Karak, Jordan"
+    email: ghadaa@mutah.edu.jo
+  - family-names: Tarawneh
+    given-names: Ahmad S.
+    affiliation: "Faculty of Information Technology, Mutah University, Al-Karak, Jordan"
+    email: ahmad.trwh@mutah.edu.jo
+repository-code: "https://github.com/ahmadhassant/tab-agents"
+abstract: >-
+  Rules engine, heuristic and learned agents, tournament harness and complete raw
+  results for a systematic study of agent design in the traditional board game
+  ṭāb: one-ply lookahead, allocation generation, evaluator calibration, matched
+  compute budgets, MCTS and TD(λ) baselines, and a human move-alignment study.
+keywords:
+  - board games
+  - game AI
+  - evaluation functions
+  - heuristic search
+  - Monte Carlo tree search
+  - reinforcement learning
+  - human-AI alignment
+license: MIT
+version: 1.0.0
+date-released: "2026-09-07"
+preferred-citation:
+  type: article
+  title: >-
+    Tactical Lookahead and Heuristic Calibration in the Ancient Board Game of
+    ṭāb: A Systematic Study of Agent Design
+  authors:
+    - family-names: Hassanat
+      given-names: Ahmad B.
+    - family-names: Altarawneh
+      given-names: Ghada A.
+    - family-names: Alhabashneh
+      given-names: Obada
+    - family-names: Tarawneh
+      given-names: Ahmad S.
+  journal: "IEEE Transactions on Games"
+  year: 2026

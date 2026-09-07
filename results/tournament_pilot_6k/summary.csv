@@ -1,0 +1,7 @@
+agent_a,agent_b,games,a_wins,b_wins,draws,a_win_pct,ci_95_pct,avg_turns,avg_time_sec
+GA-Expert,PSA,1000,528,472,0,52.8,3.1,81.3,3.383
+GA-Expert,LOOK,1000,496,504,0,49.6,3.1,86.5,4.075
+GA-Expert,LOOK-A3-simple-stack,1000,440,560,0,44.0,3.1,83.1,3.925
+PSA,LOOK,1000,410,590,0,41.0,3.0,91.7,0.711
+PSA,LOOK-A3-simple-stack,1000,380,620,0,38.0,3.0,88.5,0.866
+LOOK,LOOK-A3-simple-stack,1000,448,552,0,44.8,3.1,94.4,1.397

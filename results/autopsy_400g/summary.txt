@@ -1,0 +1,44 @@
+==========================================================================================
+  tab TOURNAMENT SUMMARY
+==========================================================================================
+  Generated: 2026-05-17T21:54:22.272766
+
+  Agent A              Agent B               Games A wins B wins Draws   A win %    95% CI  Turns  Time/g
+  -------------------- -------------------- ------ ------ ------ ----- --------- --------- ------ -------
+  GA-Expert            LOOK                    400    177    223     0     44.2%    +/-4.9   83.3   2.83s
+  GA-Expert            LOOK-A1-material5       400    315     85     0     78.8%    +/-4.0   84.2   2.86s
+  GA-Expert            LOOK-A2-no-frozendist    400    270    130     0     67.5%    +/-4.6   78.4   2.61s
+  GA-Expert            LOOK-A3-simple-stack    400    171    229     0     42.8%    +/-4.8   85.1   2.88s
+  GA-Expert            LOOK-A4-strong-danger    400    263    137     0     65.8%    +/-4.7   80.5   2.59s
+  GA-Expert            LOOK-A5-stacking-off    400    259    141     0     64.8%    +/-4.7   81.9   2.58s
+  GA-Expert            LOOK-A6-all-fixed       400    275    125     0     68.8%    +/-4.5   94.7   3.20s
+  GA-Expert            LOOK-my-eval            400    273    127     0     68.2%    +/-4.6   78.1   3.69s
+  LOOK                 LOOK-A1-material5       400    323     77     0     80.8%    +/-3.9   88.1   0.63s
+  LOOK                 LOOK-A2-no-frozendist    400    268    132     0     67.0%    +/-4.6   86.9   0.50s
+  LOOK                 LOOK-A3-simple-stack    400    171    229     0     42.8%    +/-4.8   92.8   0.94s
+  LOOK                 LOOK-A4-strong-danger    400    261    139     0     65.2%    +/-4.7   85.7   0.61s
+  LOOK                 LOOK-A5-stacking-off    400    268    132     0     67.0%    +/-4.6   84.5   0.48s
+  LOOK                 LOOK-A6-all-fixed       400    258    142     0     64.5%    +/-4.7  107.4   1.07s
+  LOOK                 LOOK-my-eval            400    284    116     0     71.0%    +/-4.4   85.3   0.85s
+  LOOK-A1-material5    LOOK-A2-no-frozendist    400    161    239     0     40.2%    +/-4.8   87.2   0.45s
+  LOOK-A1-material5    LOOK-A3-simple-stack    400     89    311     0     22.2%    +/-4.1   84.9   0.86s
+  LOOK-A1-material5    LOOK-A4-strong-danger    400    150    250     0     37.5%    +/-4.7   87.9   0.48s
+  LOOK-A1-material5    LOOK-A5-stacking-off    400    158    242     0     39.5%    +/-4.8   86.2   0.39s
+  LOOK-A1-material5    LOOK-A6-all-fixed       400    117    283     0     29.2%    +/-4.5   98.2   0.59s
+  LOOK-A1-material5    LOOK-my-eval            400    155    245     0     38.8%    +/-4.8   87.0   0.50s
+  LOOK-A2-no-frozendist LOOK-A3-simple-stack    400    109    291     0     27.3%    +/-4.4   84.3   0.55s
+  LOOK-A2-no-frozendist LOOK-A4-strong-danger    400    203    197     0     50.7%    +/-4.9   84.8   0.34s
+  LOOK-A2-no-frozendist LOOK-A5-stacking-off    400    197    203     0     49.2%    +/-4.9   82.8   0.28s
+  LOOK-A2-no-frozendist LOOK-A6-all-fixed       400    150    250     0     37.5%    +/-4.7   93.1   0.58s
+  LOOK-A2-no-frozendist LOOK-my-eval            400    180    220     0     45.0%    +/-4.9   86.0   0.38s
+  LOOK-A3-simple-stack LOOK-A4-strong-danger    400    287    113     0     71.8%    +/-4.4   82.6   0.65s
+  LOOK-A3-simple-stack LOOK-A5-stacking-off    400    287    113     0     71.8%    +/-4.4   85.4   0.61s
+  LOOK-A3-simple-stack LOOK-A6-all-fixed       400    278    122     0     69.5%    +/-4.5  102.7   1.21s
+  LOOK-A3-simple-stack LOOK-my-eval            400    286    114     0     71.5%    +/-4.4   82.4   0.81s
+  LOOK-A4-strong-danger LOOK-A5-stacking-off    400    206    194     0     51.5%    +/-4.9   82.7   0.35s
+  LOOK-A4-strong-danger LOOK-A6-all-fixed       400    170    230     0     42.5%    +/-4.8   98.0   0.61s
+  LOOK-A4-strong-danger LOOK-my-eval            400    206    194     0     51.5%    +/-4.9   85.1   0.43s
+  LOOK-A5-stacking-off LOOK-A6-all-fixed       400    165    235     0     41.2%    +/-4.8   99.2   0.56s
+  LOOK-A5-stacking-off LOOK-my-eval            400    202    198     0     50.5%    +/-4.9   82.7   0.44s
+  LOOK-A6-all-fixed    LOOK-my-eval            400    233    167     0     58.2%    +/-4.8   93.9   0.95s
+
