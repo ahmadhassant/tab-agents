@@ -14,7 +14,7 @@ This file does NOT modify any existing engine code. It adds a new agent
 that fits the TabAgent interface. All evaluation uses board.cells +
 board.frozen_at + board.frozen_queue - no global state.
 
-Author: Ahmad Hassanat - Mutah University, Jordan
+Ahmad B. Hassanat, Ghada A. Altarawneh and Ahmad S. Tarawneh - Mutah University, Jordan
 Project: tab agent comparison study (IEEE TOG)
 """
 
