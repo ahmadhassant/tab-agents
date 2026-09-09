@@ -191,8 +191,8 @@ change. Same seed + same agent set + same `--games` = identical results.
 
 The 64-core run should resolve all of these to +/-5% CIs.
 
-## Author / contact
+## Author & Contact
 
-Ahmad B. Hassanat, Ghada A. Altarawneh and Ahmad S. Tarawneh - Mutah University, Jordan
-Code support: Claude (Anthropic)
-Date: May 2026
+* **Authors:** Ahmad B. Hassanat, Ghada A. Altarawneh, and Ahmad S. Tarawneh (Mutah University, Jordan)
+* **Code Support:** Claude (Anthropic)
+* **Date:** May 2026
